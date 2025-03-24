@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:background="@android:color/white"
+    android:gravity="center_vertical">
+
+    <!-- Fondo con borde ovalado y color celeste -->
+    <FrameLayout
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bg_oval"
+        android:gravity="center"
+        android:layout_marginEnd="10dp">
+
+        <!-- Icono del usuario -->
+        <ImageView
+            android:id="@+id/ivCliente"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/usuario"
+            android:scaleType="centerCrop"/>
+    </FrameLayout>
+
+    <!-- Nombre del cliente -->
+    <TextView
+        android:id="@+id/tvNombreCliente"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre del Cliente"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+</LinearLayout>

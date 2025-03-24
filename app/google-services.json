@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499041981184",
+    "project_id": "proyectoximena-fcfe3",
+    "storage_bucket": "proyectoximena-fcfe3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499041981184:android:a7675d7bb2041db5b919e5",
+        "android_client_info": {
+          "package_name": "com.example.proyect001"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvJPyY9d9xXU3cVOkkpD84rBLaoVfILbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

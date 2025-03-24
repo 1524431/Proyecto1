@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo5"
+    tools:context=".DashboardActivity2"
+    android:id="@+id/main">
+
+
+    <GridLayout
+        android:id="@+id/headerLayout"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:background="#66B3FF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/logoImage"
+            android:src="@drawable/icono_soft"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:contentDescription="Logo"/>
+
+        <TextView
+            android:id="@+id/clinicName"
+            android:text="Clínica Dental"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="16dp"/>
+    </GridLayout>
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="105dp"
+        android:layout_height="102dp"
+        android:layout_marginTop="50dp"
+        app:layout_constraintBottom_toTopOf="@+id/welcomeTextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.527"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/headerLayout"
+        app:layout_constraintVertical_bias="0.393"
+        tools:srcCompat="@drawable/usuario" />
+
+
+    <TextView
+        android:id="@+id/welcomeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Nombre de Usuario"
+        app:layout_constraintBottom_toTopOf="@+id/scrollView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.519"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/welcomeTextView"
+        app:layout_constraintBottom_toTopOf="@+id/button6">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:gravity="center">
+
+
+            <ImageButton
+                android:id="@+id/btnBlog"
+                android:layout_width="400dp"
+                android:layout_height="150dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/blog"
+                android:scaleType="fitXY"
+                android:layout_marginBottom="16dp" />
+
+
+            <ImageButton
+                android:id="@+id/btnespecialikstas"
+                android:layout_width="400dp"
+                android:layout_height="150dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/especialistas"
+                android:scaleType="fitXY"
+                android:layout_marginBottom="16dp" />
+
+
+            <ImageButton
+                android:id="@+id/btntratamientos"
+                android:layout_width="400dp"
+                android:layout_height="150dp"
+                android:layout_marginBottom="16dp"
+                android:background="@android:color/transparent"
+                android:scaleType="fitXY"
+                android:src="@drawable/tratamientos" />
+
+            <ImageButton
+                android:id="@+id/btnpromociones"
+                android:layout_width="400dp"
+                android:layout_height="150dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/promociones"
+                android:scaleType="fitXY"
+                android:layout_marginBottom="16dp" />
+
+            
+            <ImageButton
+                android:id="@+id/btncontacto"
+                android:layout_width="400dp"
+                android:layout_height="150dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/contacto"
+                android:scaleType="fitXY"
+                android:layout_marginBottom="16dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="48dp"
+        android:text="Cerrar Sesión"
+        android:drawableLeft="@drawable/logout"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

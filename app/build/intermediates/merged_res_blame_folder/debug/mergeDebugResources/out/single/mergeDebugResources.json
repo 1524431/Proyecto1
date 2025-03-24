@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_fondo4.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\fondo4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_dashboard3.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_dashboard3.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_plus.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_telefono.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\telefono.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_usuario.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_back_registro.jpeg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\back_registro.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_icono_app.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\icono_app.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_amoled.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\amoled.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_back_4.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\back_4.jpg"
+    },
+    {
+        "merged": "com.example.proyect001.app-debug-41:/layout_activity_agregar_cliente.xml.flat",
+        "source": "com.example.proyect001.app-main-43:/layout/activity_agregar_cliente.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_person.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_jnote.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\jnote.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_registro.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\registro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_lock.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_agregar_cliente.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_agregar_cliente.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_dashboard2.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_dashboard2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_datos.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_datos.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_tareas.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\tareas.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_blog.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\blog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_editar_imagen.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\editar_imagen.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_registrou.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_registrou.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_tarea.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_tarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_bday.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\bday.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_lista.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_lista.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_fondo6.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\fondo6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_gastos.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_gastos.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_empresa.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_empresa.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_bienv_1.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\bienv_1.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_datosusuario.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_datosusuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_fondo3.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\fondo3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_icono_soft.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\icono_soft.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_precargado.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_precargado.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_pato.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\pato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_gatoo.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\gatoo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_back_tarea.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\back_tarea.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_diente.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\diente.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_en_proceso.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\en_proceso.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_back_spl2.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\back_spl2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_item_cliente.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_item_cliente.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_contacto.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\contacto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_promociones.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\promociones.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_promocion.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_promocion.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_atsimbol.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\atsimbol.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_clientes_bi.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\clientes_bi.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_eliminar.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\eliminar.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_gastos.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\gastos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_save_floppy_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\save_floppy_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_tratamientos.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\tratamientos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_phone.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_realizado.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\realizado.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_code.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\code.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_contacto.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_contacto.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_cerrar.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\cerrar.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_fondo1.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\fondo1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_card.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\card.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_lista_cliente.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_lista_cliente.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_edit_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\edit_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_registro1.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_registro1.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_especialistas.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\especialistas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_back_spl.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\back_spl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_back_db.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\back_db.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_editar.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\editar.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_amamnecer.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\amamnecer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_bg_leyenda.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\bg_leyenda.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_fondo2.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\fondo2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_editarusuario.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_editarusuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_favoritos.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_favoritos.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_especialista.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_especialista.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_back_login.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\back_login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_developer.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_favoritos.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\favoritos.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_back_db2.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\back_db2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_youtube.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_fondo5.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\fondo5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_coustm.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\coustm.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_back_3.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\back_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\layout_activity_tratamiento.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\layout\\activity_tratamiento.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_bg_body.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\bg_body.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_mis_datos.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\mis_datos.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_pendiente.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\pendiente.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_splash_pn.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\splash_pn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-debug-41:\\drawable_lista_tareas.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.10.2\\com.example.proyect001.app-main-43:\\drawable\\lista_tareas.jpg"
+    }
+]

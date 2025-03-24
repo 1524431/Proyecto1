@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="320dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:padding="15dp"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/desarrollo"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="18sp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/descripcion_dev"
+            android:justificationMode="inter_word"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="version 1.0.0.1"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:justificationMode="inter_word"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="telefono"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:justificationMode="inter_word"
+            android:text="@string/descripcion_dev"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/descripcion_dev"
+            android:justificationMode="inter_word"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/descripcion_dev"
+            android:justificationMode="inter_word"
+            android:layout_marginTop="10dp"/>
+
+        <!-- LinearLayout para los botones -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginTop="20dp">
+
+            <!-- Botón de Teléfono -->
+            <ImageButton
+                android:id="@+id/btntelefonodev"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:background="@null"
+                android:src="@drawable/telefono"
+                android:scaleType="centerCrop"
+                android:layout_marginEnd="10dp"/>
+
+            <!-- Botón de YouTube -->
+            <ImageButton
+                android:id="@+id/btnyoutubedev"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:background="@null"
+                android:src="@drawable/youtube"
+                android:scaleType="centerCrop"
+                android:layout_marginStart="10dp"/>
+
+
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnvolverdev"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:text="Volver"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

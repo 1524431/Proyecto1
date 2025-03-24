@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="ic_launcher_background">#07287B</color>
+    <color name="icon_activated">#2196F3</color>
+    <color name="icon_activated_night">#64B5F6</color>
+    <color name="icon_normal">#1976D2</color>
+    <color name="icon_normal_night">#BBDEFB</color>
+    <color name="textColor">#333333</color>
+    <item name="tvidclientel" type="id"/>
+    <item name="tvuidclientel" type="id"/>
+    <string name="Titulo_Login">Ingrese Session</string>
+    <string name="Titulo_Registro">Registrar cuenta</string>
+    <string name="apellido_cliente_item">Apellidos</string>
+    <string name="apellido_md">Apellidos</string>
+    <string name="apellidos_cli">Apellidos Clientes</string>
+    <string name="app_name">proyect001</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registrar">Registrar usuarior</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="codigo_md">Codigo usuario</string>
+    <string name="correo_cli">Correo</string>
+    <string name="correo_cliente_item">Correo</string>
+    <string name="correo_md">Correo usuario</string>
+    <string name="datos_md">Datos:</string>
+    <string name="desarrollo">desarrollado por: </string>
+    <string name="descripcion_dev">
+    Soy un programador con las siguientes habilidades y cualidades:
+    Poseo habilidades comunicativas.
+    Habilidad para trabajar en equipo y evitar conflictos.
+    Soy lógico y analítico.
+    Creativo y ocurrente.
+    Ser organizado y poder planificar tareas y utilizar eficientemente mi tiempo.
+    Poseo la capacidad de planear, diseñar, evaluar, controlar, instalar, integrar,
+            construir, operar, administrar, y mantener sistemas que contemplen los sistemas
+            de software y todo lo relacionado con el ambiente computacional,
+            buscando el óptimo aprovechamiento.
+    </string>
+    <string name="developer">Javier Apaza</string>
+    <string name="direccion_cli">Dirección</string>
+    <string name="direccion_cliente_item">Dirección</string>
+    <string name="dni_cli">DNI</string>
+    <string name="dni_cliente_item">DNI</string>
+    <string name="domicilio_md">Domicilio</string>
+    <string name="edad_md">Edad</string>
+    <string name="empresa">Empresa</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento</string>
+    <string name="gastos">Gastos</string>
+    <string name="gcm_defaultSenderId" translatable="false">499041981184</string>
+    <string name="google_api_key" translatable="false">AIzaSyBvJPyY9d9xXU3cVOkkpD84rBLaoVfILbc</string>
+    <string name="google_app_id" translatable="false">1:499041981184:android:a7675d7bb2041db5b919e5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBvJPyY9d9xXU3cVOkkpD84rBLaoVfILbc</string>
+    <string name="google_storage_bucket" translatable="false">proyectoximena-fcfe3.firebasestorage.app</string>
+    <string name="id_cliente_item">Id Cliente</string>
+    <string name="lbl_apellido">Apellido</string>
+    <string name="lbl_confirmar_password">Confirmar contraseña</string>
+    <string name="lbl_contraseña">Contraseña</string>
+    <string name="lbl_crear_cuenta">No tienes cuenta?, Registrate</string>
+    <string name="lbl_email">Correo electrónico</string>
+    <string name="lbl_ir_login">Volver al ingreso</string>
+    <string name="lbl_nombre">Nombre</string>
+    <string name="lbl_pass">Contraseña</string>
+    <string name="lbl_usuario">Usuario</string>
+    <string name="leyenda_md">Todos los campos son requeridos</string>
+    <string name="lista_tareas">Lista Tareas</string>
+    <string name="mis_datos">Mis Datos</string>
+    <string name="nombre_cli">Nombres Clientes</string>
+    <string name="nombre_cliente_item">Nombre</string>
+    <string name="nombre_md">Nombres</string>
+    <string name="profesion_md">Profesion</string>
+    <string name="project_id" translatable="false">proyectoximena-fcfe3</string>
+    <string name="registrar_cli">Registrar Cliente</string>
+    <string name="tareas">Tareas</string>
+    <string name="telefono_cli">Teléfono</string>
+    <string name="telefono_cliente_item">Teléfono</string>
+    <string name="telefono_md">Telefono</string>
+    <string name="tiktok_md">Tiktok</string>
+    <string name="titulo_md">Mis datos</string>
+    <string name="txt_apellido">Ingrese su apellido</string>
+    <string name="txt_confirmar_password">Confirme su contraseña</string>
+    <string name="txt_email">Ingrese su correo electrónico</string>
+    <string name="txt_nombre">Ingrese su nombre</string>
+    <string name="txt_pass">Ingrese su contraseña</string>
+    <string name="txt_password">Ingrese Contraseña</string>
+    <string name="txt_usuario">Ingrese Usuario</string>
+    <string name="uid_cliente">Uid Cliente</string>
+    <string name="version">version 1.0.0</string>
+    <string name="vid_usuario">Mi UID</string>
+    <style name="Base.Theme.ProyectO01" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+    </style>
+</resources>

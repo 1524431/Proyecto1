@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores para íconos en modo normal (día) -->
+    <color name="icon_normal">#1976D2</color> <!-- Azul para los íconos en modo día -->
+    <color name="icon_activated">#2196F3</color> <!-- Azul brillante cuando los íconos están activados -->
+
+    <!-- Otros colores -->
+    <color name="textColor">#333333</color> <!-- Gris oscuro para texto -->
+
+    <!-- Colores para íconos en modo noche -->
+    <color name="icon_normal_night">#BBDEFB</color> <!-- Azul claro para íconos en modo noche -->
+    <color name="icon_activated_night">#64B5F6</color> <!-- Azul brillante para íconos en modo noche -->
+
+    <!-- Colores para fondos -->
+    <color name="colorPrimary">#1976D2</color> <!-- Azul para el color principal -->
+    <color name="colorPrimaryDark">#1565C0</color> <!-- Azul oscuro para la variante principal -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Blanco para texto en color primario -->
+    <color name="colorOnSecondary">#000000</color> <!-- Negro para texto en color secundario -->
+</resources>
